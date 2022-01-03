@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on C++
+🌱 I’m currently learning Swift
+👯 I’m looking to collaborate on Some Real World Projects
+📫 How to reach me: chaudharygarvit9@gmail.com
 
 <!--
 **garvitchaudhary9/garvitchaudhary9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
