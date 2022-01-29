@@ -36,7 +36,7 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 
 🔭 You have finally discovered my Github profile!!
-<br>Thanks for stopping bye!
+<br>Thanks ,Bye!
 
 # Connect with me <img src="Assets/Handshake.gif" height="32px">
 
