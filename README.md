@@ -16,7 +16,7 @@
 
 # Connect with me <img src="Assets/Handshake.gif" height="32px">
 
-[<img align="left" alt="My website" height="30px" src="https://github.com/garvitchaudhary9/chaudharygarvit9.github.io/blob/master/images/cg9.png />](https://garvitchaudhary9.github.io/chaudharygarvit9.github.io/)
+[<img align="left" alt="My website" height="30px" src="https://github.com/garvitchaudhary9/chaudharygarvit9.github.io/blob/master/images/cg9.png" />](https://garvitchaudhary9.github.io/chaudharygarvit9.github.io/)
 
 [<img align="left" alt="LinkedIn" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/chaudharygarvit9/)
 
