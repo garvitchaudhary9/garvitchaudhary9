@@ -9,7 +9,7 @@
 - 📫 How to reach me: chaudharygarvit9@gmail.com.
 - ⚡ Fun fact: I like biking 🚴🏻.
 
-![Github stats](https://github-readme-stats.vercel.app/apichaudharygarvit9)
+![Github stats](https://github-readme-stats.vercel.app/api?username=chaudharygarvit9)
 
 <a href="https://github.com/chaudharygarvit9">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/chaudharygarvit9&theme=light&hide_langs_below=1" />
