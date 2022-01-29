@@ -16,9 +16,9 @@
 
 # Connect with me <img src="Assets/Handshake.gif" height="32px">
 
-[<img align="left" alt="My website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://garvitchaudhary9.github.io/chaudharygarvit9.github.io/)
+[<img align="left" alt="My website" height="30px" src="https://github.com/garvitchaudhary9/chaudharygarvit9.github.io/blob/master/images/cg9.png />](https://garvitchaudhary9.github.io/chaudharygarvit9.github.io/)
 
-[<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/chaudharygarvit9/)
+[<img align="left" alt="LinkedIn" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/chaudharygarvit9/)
 
 <a href="https://twitter.com/GarvitChaudha19">
   <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
