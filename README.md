@@ -24,7 +24,7 @@
   <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-[<img align="left" alt="Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/__garvit__chaudhary__/)
+[<img align="left" alt="Instagram" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/__garvit__chaudhary__/)
 
 <a href="https://www.facebook.com/garvit.chaudhary.6">
   <img align="left" alt="Harshita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
