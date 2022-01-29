@@ -9,13 +9,15 @@
 - 📫 How to reach me: chaudharygarvit9@gmail.com.
 - ⚡ Fun fact: I like biking 🚴🏻.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garvitchaudhary9&show_icons=true&theme=radical)
+<a href="https://github.com/garvitchaudhary9">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=garvitchaudhary9&show_icons=true&theme=light&line_height=27" alt="Garvit's github stats"/>
+</a>
 <a href="https://github.com/garvitchaudhary9">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitchaudhary9&theme=light&hide_langs_below=1" />
 </a>
 <br></br>
-<a href="https://github.com/garvitchaudhary9">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=garvitchaudhary9&show_icons=true&theme=light&line_height=27" alt="Garvit's github stats"/>
-</a>
+
 
 _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
