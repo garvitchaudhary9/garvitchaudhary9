@@ -9,6 +9,14 @@
 - 📫 How to reach me: chaudharygarvit9@gmail.com.
 - ⚡ Fun fact: I like biking 🚴🏻.
 
+<a href="https://github.com/harshsinghs1058">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsinghs1058&theme=light&hide_langs_below=1" />
+</a>
+<br></br>
+<a href="https://github.com/harshsinghs1058">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshsinghs1058&show_icons=true&theme=light&line_height=27" alt="Harsh's github stats"/>
+</a>
+
 _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
