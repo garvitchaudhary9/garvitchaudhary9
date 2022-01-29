@@ -2,7 +2,35 @@
 - 🔭 I’m currently working on C++.
 - 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on Some Real World Projects.
+- 💬 Ask me about - Programming and Data Science.
 - 📫 How to reach me: chaudharygarvit9@gmail.com.
+- ⚡ Fun fact: I like biking 🚴🏻.
+
+<br>
+<br>
+<br>
+🔭 You have finally discovered my Github profile!!
+<br>Thanks for stopping bye!
+<br>
+<br>
+
+# Connect with me <img src="Assets/Handshake.gif" height="32px">
+
+[<img align="left" alt="My website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://garvitchaudhary9.github.io/chaudharygarvit9.github.io/)
+
+[<img align="left" alt="LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/chaudharygarvit9/)
+
+<a href="https://twitter.com/GarvitChaudha19">
+  <img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+[<img align="left" alt="Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/__garvit__chaudhary__/)
+
+<a href="https://www.facebook.com/garvit.chaudhary.6">
+  <img align="left" alt="Harshita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chaudharygarvit9&repo=chaudharygarvit9&countColorcountColor&countColor=%237B1E7B"/>
 
 <!--
 **garvitchaudhary9/garvitchaudhary9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
