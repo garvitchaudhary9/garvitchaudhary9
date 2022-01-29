@@ -5,14 +5,14 @@
 - 💬 Ask me about - Programming and Data Science.
 - 📫 How to reach me: chaudharygarvit9@gmail.com.
 - ⚡ Fun fact: I like biking 🚴🏻.
-
-<br>
-<br>
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshita248&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita248&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
 <br>
 🔭 You have finally discovered my Github profile!!
 <br>Thanks for stopping bye!
-<br>
-<br>
 
 # Connect with me <img src="Assets/Handshake.gif" height="32px">
 
