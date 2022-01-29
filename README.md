@@ -8,6 +8,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
 ![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaudharygarvit9&show_icons=true&theme=radical)
+
 🔭 You have finally discovered my Github profile!!
 <br>Thanks for stopping bye!
 
